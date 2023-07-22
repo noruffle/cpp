@@ -1,4 +1,3 @@
-![Introduction](#introduction)
 - [Introduction](#introduction)
   - [Compilers](./Introduction/compilers.md)
 - [Basics of C++](#basics-of-c)
